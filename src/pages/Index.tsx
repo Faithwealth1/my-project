@@ -17,7 +17,7 @@ const Index = () => {
         {/* Hero Section with Background */}
         <div className="flex flex-col relative min-h-[660px] w-full overflow-hidden tracking-[-0.1px] pt-6 max-md:max-w-full">
           <img
-            src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/0a2d3234e2fe459f1d1a326d10fb7cec4e64fb10?placeholderIfAbsent=true"
+            src="/background.png"
             alt="Hero background"
             className="absolute h-full w-full object-cover inset-0"
           />

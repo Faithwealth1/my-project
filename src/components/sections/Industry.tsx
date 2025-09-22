@@ -13,7 +13,7 @@ const Industry = () => {
     <section className="bg-[rgba(220,220,209,1)] w-full overflow-hidden text-4xl font-bold tracking-[-1px] max-md:max-w-full">
       <div className="flex flex-col relative min-h-[458px] w-full items-center pt-[47px] px-20 max-md:max-w-full max-md:px-5">
         <img
-          src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/971c5ec1cb49296aba82c60cb36e0a799d74f9da?placeholderIfAbsent=true"
+          src="/bgImage.jpg"
           alt="Background pattern"
           className="absolute h-full w-full object-cover inset-0"
         />
@@ -22,7 +22,7 @@ const Industry = () => {
             Why Choose Vontech for Your Industry?
           </h2>
           <img
-            src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/92a116631c6c0672c1f495444df55332bcef5b2f?placeholderIfAbsent=true"
+            src="/industry show case.png"
             alt="Industry showcase"
             className="aspect-[1.83] object-contain w-[623px] max-w-full mt-[27px] rounded-[35px]"
           />

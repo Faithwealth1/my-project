@@ -13,7 +13,7 @@ const Header = () => {
       <nav className="bg-[rgba(255,255,255,0.15)] flex w-full items-center gap-[40px_100px] text-xl justify-between flex-wrap px-8 py-4 rounded-[30px] max-md:max-w-full max-md:px-5">
         <div className="flex items-center">
           <img
-            src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/a0d7ae3d5919fc0bdac4bea8de350a83e737593e?placeholderIfAbsent=true"
+            src="/vontech.png"
             alt="VonTech Group Logo"
             className="aspect-[4.55] object-contain w-[100px] self-stretch shrink-0 my-auto"
           />

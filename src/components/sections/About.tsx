@@ -5,7 +5,7 @@ const About = () => {
     <section id="about" className="bg-[rgba(251,251,251,1)] w-full overflow-hidden max-md:max-w-full">
       <div className="flex flex-col relative min-h-[700px] w-full items-stretch justify-center px-[70px] py-[81px] max-md:max-w-full max-md:px-5">
         <img
-          src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/76ffd0e3ed75610149295fe35530e2bcbca3d17b?placeholderIfAbsent=true"
+          src="/bgImage.jpg"
           alt="Background pattern"
           className="absolute h-full w-full object-cover inset-0"
         />
@@ -63,7 +63,7 @@ const About = () => {
           </div>
           <div className="bg-white self-stretch min-w-60 overflow-hidden w-[392px] my-auto rounded-[99999997952px]">
             <img
-              src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/ab049ae4ad8885ba99f0dd4eeaa6d321b0c81762?placeholderIfAbsent=true"
+              src="/teamImage.jpg"
               alt="Team collaboration"
               className="aspect-[0.81] object-contain w-full"
             />

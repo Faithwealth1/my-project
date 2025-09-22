@@ -8,22 +8,22 @@ const Testimonials = () => {
       text: "VonTech Group enabled my start-up company to rapidly scale our operations and bring innovative products to the market at a very fast rate.",
       name: "Richard Henry",
       role: "Growing Startup",
-      avatar: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/8d5fe585a918514049319eaf42221b1c5bbe85a8?placeholderIfAbsent=true",
-      rating: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/7833b53cfe96368615e86b00e24ce00123885af4?placeholderIfAbsent=true"
+      avatar: "/richard.png",
+      rating: "/Star rating 1.png"
     },
     {
       text: "VonTech Group helped me optimize my company's cloud infrastructure, resulting in significant cost savings and improved efficiency.",
       name: "Daniel Billy",
       role: "Cloud Organisation",
-      avatar: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/375dcd720952ecc45e2bd2c744315145650321ad?placeholderIfAbsent=true",
-      rating: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/7833b53cfe96368615e86b00e24ce00123885af4?placeholderIfAbsent=true"
+      avatar: "/daniel.png",
+      rating: "/Star rating 1.png"
     },
     {
       text: "My financial institution partnered with VonTech Group to implement robust security measures and ensure compliance in their cloud environment.",
       name: "Dora Florence",
       role: "Financial Institution",
-      avatar: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/fef43269b2fa084926ffc03020e4de436257da6f?placeholderIfAbsent=true",
-      rating: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/7e48d1eadece3278f8a49b9ba1149702829f16a9?placeholderIfAbsent=true"
+      avatar: "/dora.png",
+      rating: "/Star rating 1.png"
     }
   ];
 

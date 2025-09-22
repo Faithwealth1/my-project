@@ -4,25 +4,25 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "Facebook",
-      icon: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/5a87fa2f2837434c4d1ee079a577be4fd3c29f61?placeholderIfAbsent=true",
+      icon: "/facebook.png",
       bg: "bg-[rgba(59,89,152,1)]",
       href: "#"
     },
     {
-      name: "Twitter",
-      icon: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/7f9db5b17d5a4f742b2a8ce8b71dceef1ab567a0?placeholderIfAbsent=true",
+      name: "X",
+      icon: "/x.png",
       bg: "bg-black",
       href: "#"
     },
     {
       name: "LinkedIn",
-      icon: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/a7c66be37212cf009cef6f5c9af7c20d1cfb8041?placeholderIfAbsent=true",
+      icon: "/linkedin.png",
       bg: "bg-[rgba(0,119,181,1)]",
       href: "#"
     },
     {
-      name: "GitHub",
-      icon: "https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/4ff19f70db49398de095d129cf15655596ca72bb?placeholderIfAbsent=true",
+      name: "Instagram",
+      icon: "/instagram.png",
       bg: "bg-neutral-800",
       href: "#"
     }
@@ -68,7 +68,7 @@ const Footer = () => {
       <div className="flex w-full max-w-[1067px] items-center gap-[40px_75px] justify-between flex-wrap max-md:max-w-full">
         <div className="self-stretch min-w-60 w-[323px] my-auto">
           <img
-            src="https://api.builder.io/api/v1/image/assets/1fe23c12aa114c02a439df9b05291582/6c9d743ef7fc2d7943667cfbe4427f3ad9188a14?placeholderIfAbsent=true"
+            src="/vontech.png"
             alt="VonTech Group Logo"
             className="aspect-[3.66] object-contain w-[165px] max-w-full"
           />
